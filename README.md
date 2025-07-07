@@ -37,3 +37,23 @@ Welcome to the ultimate collection of free IPTV and VOD (Video on Demand) M3U pl
 ├── tv_series.m3u
 ├── sports_live.m3u
 ├── radio_streams.m3u
+
+⚠️ Disclaimer
+
+This repository is intended for educational and personal use only. We do not host, stream, or claim ownership of any content. All links are gathered from publicly available sources. If you are a content owner and want any link removed, please create an issue — we will remove it promptly.
+
+---
+
+❤️ Contribute
+
+Found a broken link? Have working TV or series links to share?
+Feel free to open a Pull Request or create an Issue to contribute to this project.
+
+
+---
+
+📧 Contact
+
+Email: yourname@example.com
+
+Telegram: @YourTelegramID
