@@ -26,6 +26,20 @@ Welcome to the ultimate collection of free IPTV and VOD (Video on Demand) M3U pl
    - **IPTV Smarters** ➜ Load Playlist from URL ➜ Enter RAW link
 
 ---
+## ⚠️ Disclaimer
+
+This project is intended for **educational and personal use only**. We do **not host, stream, or own** any of the media content provided in the playlists. All the links shared here are publicly available on the internet. The purpose of this repository is to test IPTV and VOD functionality in various media players and devices.
+
+If you are a content owner and find any copyrighted or unauthorized content included, please contact us. We will **promptly remove** the requested content upon verification.
+
+## 📧 Contact
+
+If you have any questions, suggestions, or takedown requests, feel free to reach out:
+
+- 📧 Email: piyashmia42@gmail.com  
+- 💬 Telegram: [@mhd_piyash](https://t.me/mhd_piyash)
+
+We appreciate your feedback and support!
 
 ## 📂 Playlist File Structure
 
@@ -37,23 +51,3 @@ Welcome to the ultimate collection of free IPTV and VOD (Video on Demand) M3U pl
 ├── tv_series.m3u
 ├── sports_live.m3u
 ├── radio_streams.m3u
-
-⚠️ Disclaimer
-
-This repository is intended for educational and personal use only. We do not host, stream, or claim ownership of any content. All links are gathered from publicly available sources. If you are a content owner and want any link removed, please create an issue — we will remove it promptly.
-
----
-
-❤️ Contribute
-
-Found a broken link? Have working TV or series links to share?
-Feel free to open a Pull Request or create an Issue to contribute to this project.
-
-
----
-
-📧 Contact
-
-Email: yourname@example.com
-
-Telegram: @YourTelegramID
