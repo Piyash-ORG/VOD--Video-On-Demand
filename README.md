@@ -20,8 +20,11 @@ Welcome to the ultimate collection of free IPTV and VOD (Video on Demand) M3U pl
 1. Download any `.m3u` file from the repository  
    **OR**  
    Copy the **RAW file URL** and paste it into your media player.
-https://piyash-org.github.io/VOD--Video-On-Demand/vod-ott.m3u
-2. Example usage:
+   
+Link (Limitation): https://piyash-org.github.io/VOD--Video-On-Demand/vod-ott.m3u
+CDN Link: https://cdn.jsdelivr.net/gh/Piyash-ORG/VOD--Video-On-Demand@main/vod-ott.m3u
+
+3. Example usage:
    - **VLC Player** ➜ Media ➜ Open Network Stream ➜ Paste URL
    - **IPTV Smarters** ➜ Load Playlist from URL ➜ Enter RAW link
 
